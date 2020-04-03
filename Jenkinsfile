@@ -1,4 +1,3 @@
-
 #!groovy 
  pipeline {     agent any 
      environment {         AWS_REGION = 'eu-west-1'         AWS_ENV    = 'csa2'         AWS_DOM    = 'learncloudsecplus.net'     } 
